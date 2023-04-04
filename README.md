@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alfnigredo
 - 👀 I’m interested in Web Develop, Mobile Develop and Game Develop
-- 🌱 I’m currently learning Unreal Engine 5
 
 <!---
 alfnigredo/alfnigredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
